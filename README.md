@@ -18,6 +18,7 @@ Features
 Future Development
 
 The application will continue to be developed and enhanced to add new features and improve existing functionality.
+
 Goal
 
 The primary goal of this project was to gain a deeper understanding and proficiency with the Spring Boot framework.
