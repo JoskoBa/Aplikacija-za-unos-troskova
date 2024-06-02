@@ -1,7 +1,23 @@
 Expense Tracking Application
 
-The expense tracking application was developed using the Java programming language, the Spring Boot framework, and MariaDB as the database. For the graphical user interface, Java Swing was employed to ensure simplicity and ease of use.
+This expense tracking application was developed using the following technologies:
 
-The application, in its current state, is functional and allows for easy user registration on a personal computer, entry of transactions, and their display within a table. Additionally, it supports the generation of PDF reports on the recorded transactions.
+    Java: Primary programming language for the application.
+    Spring Boot: Framework used for building the application.
+    MariaDB: Database used for storing expense data.
+    Java Swing: For creating the graphical user interface.
+    Maven: Build automation and dependency management tool.
 
-The primary goal of this project was to gain a deeper understanding and proficiency with the Spring Boot framework. The application will continue to be developed and enhanced in the future.
+Features
+
+    User Registration: Allows users to register and manage their accounts on a personal computer.
+    Transaction Entry: Users can enter and manage their expenses.
+    Data Display: Transactions are displayed in a table for easy viewing.
+    PDF Report Generation: Generates PDF reports for recorded transactions.
+
+Future Development
+
+The application will continue to be developed and enhanced to add new features and improve existing functionality.
+Goal
+
+The primary goal of this project was to gain a deeper understanding and proficiency with the Spring Boot framework.
